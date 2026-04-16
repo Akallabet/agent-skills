@@ -4,7 +4,7 @@
     "name": "Addy Osmani"
   },
   "metadata": {
-  "description": "Production-grade engineering skills for AI coding agents — covering the full software development lifecycle from spec to ship. Forked from https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents — covering the full software development lifecycle from spec to ship. Forked from https://github.com/addyosmani/agent-skills"
   },
   "plugins": [
     {
@@ -13,7 +13,7 @@
         "source": "github",
         "repo": "Akallabet/agent-skills"
       },
-      "description": "Production-grade engineering skills for AI coding agents — covering the full software development lifecycle from spec to ship. Forked from https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents — covering the full software development lifecycle from spec to ship. Forked from https://github.com/addyosmani/agent-skills"
     }
   ]
 }
